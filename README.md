@@ -9,7 +9,7 @@
 
 - 💬 Ask me about *Frontend*
 
-- 📫 How to reach me *Check social links below.*
+- 📫 How to reach me? *social links below*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
