@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *HTML, CSS and JS and Many more*
 
-- 👯 I’m looking to collaborate on *good projects.*
+- 👯 I’m looking to collaborate on *good projects*
 
 - 💬 Ask me about *Frontend*
 
