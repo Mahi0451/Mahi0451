@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Manoj Saini</h1>
+<h1 align="center" dir="auto">
+  <a id="user-content--Hi 👋, I'm Manoj Saini" class="anchor" aria-hidden="true" href="#-Hi 👋, I'm Manoj Saini"></a>
+  "Hi,"
+  <animated-image data-catalyst style="width: 45px;"></animated-image>
+  "I'm Manoj Saini"
+</h1>
 <h3 align="center">I'm learning Frontend development</h3>
 
 - 🔭 I’m currently working on *Something Cool!*
