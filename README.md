@@ -1,7 +1,7 @@
 <h1 align="center">Hii 👋, I'm Manoj Saini.</h1>
 <h3 align="center">I'm a Frontend Developer</h3>
 
-- 🔭 I’m currently working on *Something Cool!*
+- 🔭 I’m currently working on *improving Skills!*
 
 - 🌱 I’m currently learning *HTML, CSS and JS and Many more*
 
