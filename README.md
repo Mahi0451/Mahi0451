@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently *improving My Skills!*
 
-- 🌱 I’m currently learning *HTML, CSS, JS, React, Redux and Many more*
+- 🌱 I’m working on *HTML, CSS, JS, React, Redux and Many more*
 
 - 👯 I’m looking to collaborate on *good projects*
 
